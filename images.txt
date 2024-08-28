@@ -1,2 +1,1 @@
-teslamotors/vehicle-command:latest
-
+tesla/vehicle-command:latest
