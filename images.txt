@@ -1,1 +1,1 @@
-docker-qbittorrent:latest
+linuxserver/qbittorrent
